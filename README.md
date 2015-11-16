@@ -1,2 +1,2 @@
 # Vaadin-intro
-Playing aroung with Vaddin
+Playing aroung with Vaadin
